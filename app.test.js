@@ -1,4 +1,4 @@
-const cal = require('./app.js')
+const cal = require('./src/cal.js')
 
 describe('Calculation Test', () => {
     let opt = ["+", "-", "*", "/"];
