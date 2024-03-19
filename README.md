@@ -1,6 +1,6 @@
 # bsharp-quiz
 
-This project is currently deprecated.
+Simple API using Restify for web services and Jest for unit testing
 
 ## Installation
 
